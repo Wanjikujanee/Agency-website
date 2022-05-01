@@ -1,0 +1,395 @@
+
+nav a{
+    text-decoration: none;
+    color: rgb(170, 165, 165);
+    padding: 2%;
+    text-align: center;
+    
+    }
+    .a1{
+        color:grey;
+    }   
+    button{
+         margin-left: 20%; 
+         float: right;
+        border-radius: 20px ;
+        padding: 1% 1.5% 1% 1.5%;
+        color: #ffffff;
+        background-color: rgba(88,95,251,255);
+        border: #585ffb;
+        
+    }
+    .ad{
+        float: left;
+
+    } 
+    body{
+        background-color: rgba(243,233,234,255);
+     
+    
+     }
+     .section1{
+        background-color: rgba(255,249,252,255);
+     }
+     nav{
+        text-align: center;
+        padding:0% 5% 0% 0%;
+        margin-left: 5%;
+       
+     }
+     nav,a{
+        text-decoration: none;
+        color: rgba(63,17,0,255);
+        padding: 2%;
+        font-size:105%;
+     }
+     .a1{
+      color:rgba(143,207,198,255)
+     }
+     .abu{
+        float: left;
+        padding: 0% 0% 0% 0.5%;
+        font-size: 120%;
+     }
+     .buton{
+        border: black;
+        border-radius: 20%;
+        padding: 1% 1.5% 1% 1.5%;
+        color: #ffffff;
+        background-color: rgba(88,95,251,255);
+        float: right;
+        margin-right: 5%;
+       }
+       img{
+    float: left;
+    margin-left: 3%;
+       }
+    .icons{
+        display: inline-flex;
+        padding: 5%;
+        margin-left: 5.5%;
+    }
+    .twitter{
+        margin-left: 120%;
+        color: #ffffff;
+        border: 1px black;
+        padding: 20% 20% 20% 20%;
+        background-color:rgba(143,207,198,255) ;
+        border-radius: 49%;
+    
+    }
+    .insta{
+        border: 1px black;
+        padding: 20% 20% 20% 20%;
+        background-color:rgba(255,193,0,255); 
+        border-radius: 50%;
+    }
+    .digital{
+        color: rgba(63,17,0,255);
+        margin-left: 10%;
+        font-size: 195%;
+    
+    }
+    .p1{
+        margin-left: 10%;
+    }
+    .image1{
+        margin-left: 60%;
+       margin-top: -40.10%;
+       /* position: absolute; */
+     }
+     .contact{
+         background-color: rgba(0,167,146,255);
+         padding: 1.5% 2% 1.5% 2%;
+         border-radius: 30%;
+         color: #ffffff;
+         
+     }
+    .num{
+        font-size: 160%;
+        color: rgba(63,17,0,255);
+    }
+    
+    .projects{
+        background-color: #f9ffff;
+        border-radius: 27%;
+        padding: 0.5% 1% 0.5% 1%;
+     
+    }
+    .buttons{
+        margin-left: 10%;
+    }
+    .boxes{
+        display: flex;
+      justify-content: space-between; 
+      padding: 1% 20% ;
+      /* align-items: center; */
+      background-color: #ffffff;
+      
+    }
+    
+    .box{
+        border: 1px solid #dfdfb3;
+      text-align: center;
+     padding: 1% 10% 5% 5%; 
+    width: 200%;
+    color: rgba(63,17,0,255);
+    }
+    .number{
+        font-size: 200%;
+    }
+    .slack{
+        font-size: 250%;
+        padding: 3% 3% 3% 1%;
+        color: rgba(183,190,205,255) 
+    }
+    .prudence{
+        font-size: 200%;  
+        padding: 3% 3% 3% 3%;
+        color: rgba(183,190,205,255) 
+    }
+    .microsoft{
+        font-size: 250%; 
+        padding: 3% 3% 3% 3%; 
+      
+    }
+    .zoover{
+        font-size: 500%; 
+        padding: 4% ;
+        margin-top: 70%; 
+      
+    }
+    .socials{
+        display: flex;
+        justify-content: space-between; 
+        padding: 2%; 
+        margin-left: 6%;
+    }
+    .secondlogo{
+       
+        float: right;
+        margin-right: 84.5%;
+        margin-top: -7%;
+    }
+    .service{
+     margin-left: 50%;
+     color: rgba(68,161,143,255);
+    }
+    .help{
+        margin-left: 45%;
+        color: rgba(63,17,0,255);
+        font-size: 135%;
+    }
+    
+    .section2{
+        background-color: rgba(255,255,255,255);
+    }
+     
+    .loop{
+        display: flex;
+        justify-content: space-between; 
+        padding: 2%;  
+        color: rgba(63,17,0,255);
+        border-radius: 3%;
+    }
+    
+    .design{
+    color: #ffffff;
+    width: 10%;
+    background-color: #585ffb;
+    padding: 5% 2% 4% 4% ;
+    border-radius: 50%;
+    
+    }
+    .dev{
+        width: 10%;
+        background-color:#ffffff ;
+        padding: 5% 2% 4% 4% ;
+        border-radius: 50%; 
+        color: rgba(63,17,0,255);
+    }
+    .crown{
+        color: #ffffff;
+        width: 10%;
+        background-color:rgba(255,193,0,255);
+        padding: 5% 2% 4% 4% ;
+        border-radius: 50%; 
+    }
+    
+    .loop1{
+        border: 1px ;
+        padding: 5% 5%;
+        margin-left: 5%;
+        background-color: rgba(244,249,250,255);
+    }
+    .loop2{
+        border: 1px; 
+        padding: 5% 5%;
+        background-color: rgba(0,167,146,255);
+        color: #ffffff;
+      
+    
+    }
+    .loop3{
+        border: 1px ; 
+        padding: 5% 5%;
+    margin-right: 8%;
+    background-color: rgba(232,245,255,255)
+    }
+    .section3{
+        background-color: rgba(255,255,255,255);
+     
+    }
+    /* .section4{
+        display: flex;
+    } */
+    
+     
+     /* .sentence{
+         margin-left: 12%;
+     } */
+     .secondwoman{
+         display: flex;
+         justify-content: space-between;
+     }
+     .image3{
+         margin-left: 2%;
+         
+     }
+     /* .thirdlogo{
+         margin-left: 20%;
+         margin-bottom: 12%;
+     }
+     .sentence{
+         margin-top: -2%;
+     } */
+     .two{
+         margin-left: 15%;
+     }
+     .logo2{
+         display: flex;
+         margin-left: 25%;
+     }
+     .thirdlogo{
+         height: 23%;
+     }
+     .sentence{
+        color: rgba(68,161,143,255);
+     }
+     .secondtitle{
+    margin-left: 20%;
+    color: rgba(63,17,0,255);
+    font-size: 150%;
+     }
+     .fullservicep{
+         margin-left: 20%;
+         font-size: 150%;
+         color: rgba(63,17,0,255);
+     }
+     .techp{
+         margin-left: 20%;
+         font-size: 150%;
+         color: rgba(63,17,0,255);  
+     }
+     .themp{
+        margin-left: 20%;
+        font-size: 150%;
+        color: rgba(63,17,0,255);  
+     }
+     .section4{
+        background-color: rgba(255,255,255,255); 
+       
+     }
+     .head{
+         font-size: xx-large;
+         text-align: center;
+         
+      }
+      .information{
+          margin-left: 40%;
+      }
+    
+      .container{
+        display: flex;
+        border: 0px solid black;
+     width: 30%;
+     padding: 1% 1% 1% 1%;
+        border-radius: 12%;
+        margin-left: 35%;
+        background-color:rgba(68,161,143,255);
+          
+    }
+    .subscribe{
+        margin-left: 55%;
+        border: 0px solid black;
+        padding: 0.2% 1% 0.2% 1%;
+        border-radius: 20%;
+        color: rgba(255,255,255,255);
+        background-color: rgb(77, 77, 211);
+    }
+    
+    .email{
+        padding:1%;
+        color: rgba(255,255,255,255);
+        }
+        .logo3{
+            display: flex;
+            margin-left: 10%;
+        }
+        .thirdlogo1{
+            height:2%;
+            width: 10%;
+        }
+        .sentence1{
+           color: rgba(68,161,143,255);
+        }
+        .section5{
+         background-color: rgba(255,255,255,255);   
+        }
+        .zoover{
+            margin-top: -8%;
+
+        }
+        .login{
+            color: rgba(63,17,0,255);
+            font-size: 160%;
+            margin-left: 10%;
+        }
+        
+    
+        }
+        .pic{
+            margin-left: 70%;
+            margin-bottom: 40%;
+        
+        }
+        
+    .fullname{
+        margin-left: 10%;
+    }
+    #fname{
+        border: 1px solid blueviolet;
+        border-width: 70%; 
+        height: 30px;  
+        width: 45%;
+        border-radius: 1px;  
+    
+        }
+    
+    .message{
+        margin-left: 11%;
+    
+    }
+    
+    .sendbutton {
+        background-color: #0db9be; 
+        border-radius: 5px;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        margin-left: 5%;
+      }
+    
